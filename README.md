@@ -7,6 +7,6 @@ Simple REST API, maded with Spring ang MongoDb.
 
 You can have access to API in the /localhost:8080
 
-In the API exist four valid routes : "/personas" that include the requests GET/POST/PATCH/DELETE.
+In the API exist one valid route : "/personas" that include the requests GET/POST/PATCH/DELETE.
 
 IMPORTANT: Remember work with data in JSON format
